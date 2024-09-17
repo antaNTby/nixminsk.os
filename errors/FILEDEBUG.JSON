@@ -1,0 +1,277 @@
+__integer__  ::  
+5001
+__array__  ::  
+{
+    "orderID": "2348",
+    "customerID": "1",
+    "order_time": "2023-10-31 13:11:42",
+    "customer_ip": "127.0.0.1",
+    "shipping_type": "Самовывоз",
+    "payment_type": "Счет-договор",
+    "customers_comment": "",
+    "statusID": "3",
+    "shipping_cost": "0",
+    "order_discount": "0",
+    "order_amount": "1875.5",
+    "currency_code": "BNN",
+    "currency_value": "3",
+    "customer_firstname": "Alexander",
+    "customer_lastname": "+375 296583031",
+    "customer_email": "antaNT.pro@gmail.com",
+    "shipping_firstname": "Заказ Администраторов",
+    "shipping_lastname": "+375 29 111 44 55",
+    "shipping_country": "Беларусь",
+    "shipping_state": "7. Минск и Минский район",
+    "shipping_city": "Минск",
+    "shipping_address": "г. Минск, ул.Нежинская д. 89, кв. 88",
+    "billing_firstname": "Заказ Администраторов",
+    "billing_lastname": "+375 29 111 44 55",
+    "billing_country": "Беларусь",
+    "billing_state": "7. Минск и Минский район",
+    "billing_city": "Минск",
+    "billing_address": "г. Минск, ул.Нежинская д. 89, кв. 88",
+    "cc_number": "0",
+    "cc_holdername": "0",
+    "cc_expires": "0",
+    "cc_cvv": "0",
+    "affiliateID": "81377",
+    "shippingServiceInfo": "",
+    "custlink": "fbba5fd7af0698c3f4a64112f3307882671",
+    "currency_round": "2",
+    "shippmethod": "3",
+    "paymethod": "3",
+    "companyID": "2571",
+    "contractID": null,
+    "order_aka": null,
+    "customer_aka": null,
+    "admin_comment": null
+}
+__integer__  ::  
+2571
+__NULL__  ::  
+null
+__string__  ::  
+"5002"
+__array__  ::  
+{
+    "orderID": "2338",
+    "customerID": "1",
+    "order_time": "2022-11-03 15:45:05",
+    "customer_ip": "86.57.245.171",
+    "shipping_type": null,
+    "payment_type": null,
+    "customers_comment": null,
+    "statusID": "3",
+    "shipping_cost": "0",
+    "order_discount": "0",
+    "order_amount": "250",
+    "currency_code": "BYN",
+    "currency_value": "2.6",
+    "customer_firstname": "ADMIN",
+    "customer_lastname": "ADMIN",
+    "customer_email": "ADMIN",
+    "shipping_firstname": null,
+    "shipping_lastname": null,
+    "shipping_country": null,
+    "shipping_state": null,
+    "shipping_city": null,
+    "shipping_address": null,
+    "billing_firstname": null,
+    "billing_lastname": null,
+    "billing_country": null,
+    "billing_state": null,
+    "billing_city": null,
+    "billing_address": null,
+    "cc_number": null,
+    "cc_holdername": null,
+    "cc_expires": null,
+    "cc_cvv": null,
+    "affiliateID": "0",
+    "shippingServiceInfo": null,
+    "custlink": null,
+    "currency_round": "2",
+    "shippmethod": "3",
+    "paymethod": "3",
+    "companyID": "1055",
+    "contractID": "1062",
+    "order_aka": "0",
+    "customer_aka": "0",
+    "admin_comment": "Admin Order"
+}
+__integer__  ::  
+1055
+__NULL__  ::  
+null
+__string__  ::  
+"5003"
+__integer__  ::  
+0
+__array__  ::  
+[
+    {
+        "key": "orderID",
+        "val": 2354,
+        "type": 1
+    },
+    {
+        "key": "invoiceID",
+        "val": 0,
+        "type": 1
+    },
+    {
+        "key": "requisites",
+        "val": "",
+        "type": 2
+    },
+    {
+        "key": "director_nominative",
+        "val": "",
+        "type": 2
+    },
+    {
+        "key": "director_genitive",
+        "val": "",
+        "type": 2
+    },
+    {
+        "key": "director_reason",
+        "val": "",
+        "type": 2
+    },
+    {
+        "key": "purposeID",
+        "val": 0,
+        "type": 1
+    },
+    {
+        "key": "fundingID",
+        "val": 0,
+        "type": 1
+    },
+    {
+        "key": "deliveryFrom",
+        "val": "",
+        "type": 2
+    },
+    {
+        "key": "deliveryTo",
+        "val": "",
+        "type": 2
+    },
+    {
+        "key": "DeliveryType",
+        "val": 0,
+        "type": 1
+    },
+    {
+        "key": "PaymentType",
+        "val": 0,
+        "type": 1
+    },
+    {
+        "key": "invoice_time",
+        "val": "2024-04-05 11:49:25",
+        "type": 2
+    },
+    {
+        "key": "actuality_termin",
+        "val": "1",
+        "type": 2
+    },
+    {
+        "key": "delivery_termin",
+        "val": "10",
+        "type": 2
+    },
+    {
+        "key": "payment_termin",
+        "val": "1",
+        "type": 2
+    },
+    {
+        "key": "payment_prepay",
+        "val": "100",
+        "type": 2
+    }
+]
+__string__  ::  
+FAILED SaveInvoiceAll ::  
+                UPDATE `NANO_invoices` SET
+
+                `requisites`          = :requisites,
+                `director_nominative` = :director_nominative,
+                `director_genitive`   = :director_genitive,
+                `director_reason`     = :director_reason,
+
+                `purposeID`           = :purposeID,
+                `fundingID`           = :fundingID,
+
+                `deliveryFrom`        = :deliveryFrom,
+                `deliveryTo`          = :deliveryTo,
+
+                `DeliveryType`        = :DeliveryType,
+                `PaymentType`         = :PaymentType,
+
+                `invoice_time`        = :invoice_time,
+
+                `actuality_termin`    = :actuality_termin,
+                `delivery_termin`     = :delivery_termin,
+                `payment_termin`      = :payment_termin,
+
+                `payment_prepay`      = :payment_prepay
+
+                WHERE
+                `orderID`=:orderID
+                AND
+                `invoiceID`=:invoiceID;
+            
+__string__  ::  
+"5003"
+__array__  ::  
+{
+    "orderID": "2354",
+    "customerID": "0",
+    "order_time": "2023-12-07 15:35:26",
+    "customer_ip": "127.0.0.1",
+    "shipping_type": "Самовывоз",
+    "payment_type": "Счет-фактура и договор",
+    "customers_comment": "",
+    "statusID": "2",
+    "shipping_cost": "0",
+    "order_discount": "0",
+    "order_amount": "249.24",
+    "currency_code": "BYN",
+    "currency_value": "3",
+    "customer_firstname": "542352345",
+    "customer_lastname": "4354345",
+    "customer_email": "asdssad@mail.ru",
+    "shipping_firstname": "542352345",
+    "shipping_lastname": "4354345",
+    "shipping_country": "Беларусь",
+    "shipping_state": "7. Минск и Минский район",
+    "shipping_city": "Минск",
+    "shipping_address": "",
+    "billing_firstname": "542352345",
+    "billing_lastname": "4354345",
+    "billing_country": "Беларусь",
+    "billing_state": "7. Минск и Минский район",
+    "billing_city": "Минск",
+    "billing_address": "",
+    "cc_number": "0",
+    "cc_holdername": "0",
+    "cc_expires": "0",
+    "cc_cvv": "0",
+    "affiliateID": "81377",
+    "shippingServiceInfo": "",
+    "custlink": "99029692385cc368bcc6e9e3cf4c7e12611",
+    "currency_round": "2",
+    "shippmethod": "3",
+    "paymethod": "4",
+    "companyID": "2597",
+    "contractID": null,
+    "order_aka": null,
+    "customer_aka": null,
+    "admin_comment": null
+}
+__integer__  ::  
+2597

@@ -1,0 +1,80 @@
+{
+    "folders": [
+        // {"path":"d:/OSPanel/userdata/logs/"},
+        // {
+        //     "path": "../../userdata/logs/"
+        // },
+
+        {
+            /*"follow_symlinks": true,*/
+
+            "path": ".",
+
+            "folder_exclude_patterns": [
+                // "lib",
+                "temp",
+                // "core/tpl/user",
+                "core/tpl/email",
+                "core/cache",
+
+                "data/_thumbs",
+                "data/category",
+                "data/small",
+                "data/medium",
+                "data/big",
+                "data/files",
+            ],
+
+            /*"file_include_patterns": [
+                // "*.py",
+                // "*.css",
+                // "*.htaccess",
+                // "*.htm*",
+                // "*.gif",
+                // "*.ico",
+                // "*.bmp",
+                // "*.jpg",
+                // "*.png",
+                // "*.js",
+                // "*.json",
+                // "*.log",
+                // "*.pdf",
+                // "*.php",
+                // "*.tpl.html",
+                // "*.sql",
+                // "*.txt",
+                // "*.TXT",
+                // "*.xml",
+                // "*error_log*.*",
+                // "core/languages/russian.php"
+            ],*/
+            "file_exclude_patterns": [
+                // "ADMIN74.sublime-project",
+                "*.sublime-project",
+                "politika-konfidentsialnosti.html",
+                // "admin.php",
+                // "admin54.php",
+                "adminer.php",
+                "adminer.css",
+                "adminer.ico",
+                "index_74.php",
+                "admin54.php",
+                "index Git.php",
+                "ht - Copy.htaccess",
+                "core/cache/nano^*",
+                "core/cache/MAIL^*",
+                "534F5280C1B*.ico",
+                "534F5*.ico",
+            ],
+        }
+    ],
+    "settings":
+    {
+        "default_encoding": "UTF-8",
+        "fallback_encoding": "UTF-8",
+        "tab_size": 4,
+                "xdebug": {
+             "url": "nixminsk.os",
+        },
+    },
+}

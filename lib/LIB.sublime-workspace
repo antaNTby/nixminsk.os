@@ -1,0 +1,2547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action"
+			],
+			[
+				"da",
+				"dataset"
+			],
+			[
+				"curr",
+				"currencyValue"
+			],
+			[
+				"dis",
+				"disableInputs"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"js-coll",
+				"js-collapse-vat"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"conso",
+				"console.table"
+			],
+			[
+				"se",
+				"settingsCurrency"
+			],
+			[
+				"setti",
+				"settingsPositiveInteger"
+			],
+			[
+				"Cl",
+				"Cleaves"
+			],
+			[
+				"To",
+				"Totals"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"C",
+				"CID"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"S",
+				"Strings"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"number",
+				"number_to_string"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"shi",
+				"ShippingPay"
+			],
+			[
+				"V",
+				"VAT_Rate"
+			],
+			[
+				"P",
+				"PI"
+			],
+			[
+				"new",
+				"newRow"
+			],
+			[
+				"prod",
+				"prodRow"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"ne",
+				"newParams"
+			],
+			[
+				"has",
+				"hasVATIncluded"
+			],
+			[
+				"sett",
+				"settingsCurrency"
+			],
+			[
+				"setting",
+				"settingsCurrency"
+			],
+			[
+				"ch",
+				"check_mark"
+			],
+			[
+				"nb",
+				"nbsp"
+			],
+			[
+				"cu",
+				"currencies"
+			],
+			[
+				"curren",
+				"currencyView"
+			],
+			[
+				"text-",
+				"text-opacity-50"
+			],
+			[
+				"calculate",
+				"calculateNewCurrencyValue"
+			],
+			[
+				"Q",
+				"Quantity"
+			],
+			[
+				"out",
+				"outPrice"
+			],
+			[
+				"_co",
+				"_controlDiscountPercent"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"MyQ",
+				"MyQuatitues"
+			],
+			[
+				"for",
+				"for〔keyword〕"
+			],
+			[
+				"m",
+				"MyQuatitues"
+			],
+			[
+				"currency",
+				"currency_value"
+			],
+			[
+				"qo",
+				"querySelectorAll"
+			],
+			[
+				"red",
+				"mediumvioletred"
+			],
+			[
+				"extra",
+				"extradiscountValue"
+			],
+			[
+				"c",
+				"currencyRate"
+			],
+			[
+				"par",
+				"parseFloat〔function〕"
+			],
+			[
+				"My",
+				"MyCurrency"
+			],
+			[
+				"bg-",
+				"bg-opacity-75"
+			],
+			[
+				"nowrap",
+				"flex-nowrap"
+			],
+			[
+				"in",
+				"in_stock"
+			],
+			[
+				"O",
+				"$OrderedCarts〔variable〕"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"btn-out",
+				"btn-outline-dark"
+			],
+			[
+				"sta",
+				"status_cpast_f"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"sa",
+				"status_name"
+			],
+			[
+				"order_",
+				"order_time"
+			],
+			[
+				"bg",
+				"bg-opacity-75"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"justify",
+				"justify-content-between"
+			],
+			[
+				"path",
+				"path_to_file_win"
+			],
+			[
+				"i",
+				"$imgInfo〔variable〕"
+			],
+			[
+				"do",
+				"doModal_"
+			],
+			[
+				"li",
+				"literal"
+			],
+			[
+				"f",
+				"fullpath"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"err",
+				"error_line"
+			],
+			[
+				"R",
+				"Rates"
+			],
+			[
+				"btn-ou",
+				"btn-outline-danger"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"dpt",
+				"dpt_index"
+			],
+			[
+				"sub",
+				"subdepartment"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"fw",
+				"fw-lighter"
+			],
+			[
+				"table",
+				"table-bordered"
+			],
+			[
+				"Show",
+				"ShowInfo"
+			],
+			[
+				"Sho",
+				"ShowSuccess"
+			],
+			[
+				"viw",
+				"view_type"
+			],
+			[
+				"_C",
+				"_COOKIE"
+			],
+			[
+				"_COO",
+				"_COOKIE"
+			],
+			[
+				"preg_rep",
+				"preg_replace_callback()"
+			],
+			[
+				"PHP",
+				"PHPError"
+			],
+			[
+				"co",
+				"companyID"
+			],
+			[
+				"last",
+				"lastCompanyID"
+			],
+			[
+				"pm",
+				"pm_unp"
+			],
+			[
+				"zo",
+				"zoneID"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"CO",
+				"CONF_PRODUCTS_PER_PAGE"
+			],
+			[
+				"CONF_PR",
+				"CONF_PRODUCTS_PER_PAGE"
+			],
+			[
+				"CONF_PRO",
+				"CONF_PRODUCTS_PER_PAGE"
+			],
+			[
+				"my",
+				"myOffset"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"sho",
+				"show_all"
+			],
+			[
+				"Re",
+				"Redirect"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"d-",
+				"d-inline-flex "
+			],
+			[
+				"is_",
+				"is_SearchPage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"btn-",
+				"btn-secondary"
+			],
+			[
+				"ju",
+				"justify-content-between"
+			],
+			[
+				"change",
+				"changeViewType"
+			],
+			[
+				"Do",
+				"DoDrawPage"
+			],
+			[
+				"row",
+				"row-cols-1"
+			],
+			[
+				"_SE",
+				"$_SESSION"
+			],
+			[
+				"pro",
+				"productID"
+			],
+			[
+				"paren",
+				"parent_id"
+			],
+			[
+				"show",
+				"show_all=yes"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"img",
+				"img_url"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"Arra",
+				"array()"
+			],
+			[
+				"flex-gr",
+				"flex-grow-1 "
+			],
+			[
+				"Flex",
+				"flex-row "
+			],
+			[
+				"sh",
+				"shadow-lg "
+			],
+			[
+				"btn-info",
+				"btn-outline-info "
+			],
+			[
+				"justify-content-",
+				"justify-content-around "
+			],
+			[
+				"op",
+				"opacity-50"
+			],
+			[
+				"im",
+				"img_url"
+			],
+			[
+				"text-n",
+				"text-decoration-none"
+			],
+			[
+				"ad",
+				"adminlink"
+			],
+			[
+				"de",
+				"debug"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__head.tpl.html",
+			"settings":
+			{
+				"buffer_size": 1419,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AgAAAN4BAAAAAAAA3wEAAAAAAAAAAAAA3wEAAAAAAADfAQAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAA3gEAAAAAAADfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMABAAAAAAAAwAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAwQEAAAAAAADBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"",
+					null,
+					"AQAAANgBAAAAAAAA4wEAAAAAAAALAAAALTUuMy4wLWRpc3Q",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"",
+					null,
+					"AQAAAC4CAAAAAAAARAIAAAAAAAAWAAAAYm9vdHN0cmFwLWljb25zLTEuMTAuMg",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "/FONT"
+					},
+					"BQAAAEQCAAAAAAAARQIAAAAAAAAAAAAARQIAAAAAAABGAgAAAAAAAAAAAABGAgAAAAAAAEcCAAAAAAAAAAAAAEcCAAAAAAAASAIAAAAAAAAAAAAASAIAAAAAAABJAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAIAAAAAAABEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"lower_case",
+					null,
+					"AQAAAEUCAAAAAAAASQIAAAAAAAAEAAAARk9OVA",
+					"AQAAAAAAAAABAAAASQIAAAAAAABJAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/index__head.tpl.html",
+			"settings":
+			{
+				"buffer_size": 3163,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"AQAAAFADAAAAAAAAZgMAAAAAAAAWAAAAYm9vdHN0cmFwLWljb25zLTEuMTAuMg",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AgAAAGUDAAAAAAAAawMAAAAAAAAAAAAAawMAAAAAAABrAwAAAAAAAAEAAAA1",
+					"AQAAAAAAAAABAAAAZQMAAAAAAABmAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Searching 3 files for \"-5.3.0-dist\"\n\nC:\\OSPanel\\domains\\nixminsk.os\\core\\languages\\russian.php:\n 1484  <link href=data/admin/favicon.ico rel=\"shortcut icon\" type=\"image/x-icon\">\n 1485  <title>Welcome to nix.by</title>\n 1486: <link rel=\"stylesheet\" type=\"text/css\" href=\"/lib/bootstrap/bootstrap-5.3.0-dist/css/bootstrap.min.css\">\n 1487  <div class=container-fluid style=\"max-width:540px\">\n 1488      <img alt=\"nix.by\" class=\"d-block mx-auto rounded\" src=data/images/logo/nixlogo256.jpg style=\"background-color:#fff;margin:60px\">\n\nC:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\admin\\admin__bottom.tpl.html:\n    1  {* БИБЛИОТЕКИ *}\n    2: <script src=\"/lib/bootstrap/bootstrap-5.3.0-dist/js/bootstrap.min.js\" defer></script>\n    3  <script src=\"/lib/jquery-3.6.0.min.js\" defer></script>\n    4  {* <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8\" crossorigin=\"anonymous\"></script> *}\n\nC:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\admin\\admin__head.tpl.html:\n    8  <link rel=\"icon\" sizes=16x16 href=\"core/tpl/admin/images/favicon.ico\">\n    9  <title>admin :: {$smarty.const.SITE_URL}</title>\n   10: <link rel=\"stylesheet\" type=\"text/css\" href=\"/lib/bootstrap/bootstrap-5.3.0-dist/css/bootstrap.min.css\">\n   11  \n   12  <link rel=\"stylesheet\" type=\"text/css\" href=\"lib/bootstrap-icons-1.10.2/bootstrap-icons.css\">\n\n3 matches across 3 files\n\n\nSearching 5377 files for \"bootstrap-select-1.14.0-beta2\"\n\n0 matches\n\nSearching 5225 files for \"bootstrap-icons-1.10.2\"\n\nC:\\OSPanel\\domains\\nixminsk.os\\core\\cache\\NA^6bcf6420db7450ff23956e4ad1171a3838a412d0_0.file.admin__head.tpl.html.php:\n   34  <link rel=\"stylesheet\" type=\"text/css\" href=\"/lib/bootstrap/bootstrap-5.3.1-dist/css/bootstrap.min.css\">\n   35  \n   36: <link rel=\"stylesheet\" type=\"text/css\" href=\"lib/bootstrap-icons-1.10.2/bootstrap-icons.css\">\n   37  <!-- CSS only -->\n   38  \n\nC:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\admin\\admin__head.tpl.html:\n   10  <link rel=\"stylesheet\" type=\"text/css\" href=\"/lib/bootstrap/bootstrap-5.3.1-dist/css/bootstrap.min.css\">\n   11  \n   12: <link rel=\"stylesheet\" type=\"text/css\" href=\"lib/bootstrap-icons-1.10.2/bootstrap-icons.css\">\n   13  <!-- CSS only -->\n   14  {* <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT\" crossorigin=\"anonymous\"> *}\n\nC:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\user\\nano\\index__head.tpl.html:\n   15  <link rel=\"icon\" sizes=16x16 href=\"/core/tpl/user/nano/images/favicon.ico\">\n   16  <title>{$page_title}</title>\n   17: <link rel=\"stylesheet\" type=\"text/css\" href=\"lib/bootstrap-icons-1.10.2/bootstrap-icons.css\">\n   18  <!-- <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css\" integrity=\"sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3\" crossorigin=\"anonymous\"> -->\n   19  <!-- CSS only -->\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 3072,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__bottom.tpl.html",
+			"settings":
+			{
+				"buffer_size": 1802,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AgAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"",
+					null,
+					"AQAAADYAAAAAAAAAQQAAAAAAAAALAAAALTUuMy4wLWRpc3Q",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/OSPanel/domains/nixminsk.os/core/languages/russian.php",
+			"settings":
+			{
+				"buffer_size": 105816,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AgAAAOqQAQAAAAAA65ABAAAAAAAAAAAA65ABAAAAAADrkAEAAAAAAAEAAAAx",
+					"AQAAAAAAAAABAAAA6pABAAAAAADrkAEAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMyQAQAAAAAAzJABAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAzZABAAAAAADNkAEAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"",
+					null,
+					"AQAAAOSQAQAAAAAA75ABAAAAAAALAAAALTUuMy4wLWRpc3Q",
+					"AQAAAAAAAAABAAAAzJABAAAAAADMkAEAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"print",
+				"File: Print"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"comp",
+				"Compare selections"
+			],
+			[
+				"beyond",
+				"BeyondCompare: Show Diff"
+			],
+			[
+				"codefor",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"code",
+				"CodeFormatter: Show PHP Transformations"
+			],
+			[
+				"php",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 234.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OSPanel/domains/nixminsk.os",
+		"/C/OSPanel/domains/nixminsk.os/core",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano"
+	],
+	"file_history":
+	[
+		"/C/OSPanel/domains/nixminsk.os/core/cache/NA^6bcf6420db7450ff23956e4ad1171a3838a412d0_0.file.admin__head.tpl.html.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/modelOrderContent.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appOrderContent.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/languages/russian.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__bottom.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__head.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/app_ordercontent.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/viewOrderContent.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/js/admin.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appOrderContent.js",
+		"/C/OSPanel/domains/nixminsk.os/core/cache/NA^95853a307cd5b205402fac1ba46827ef6a8a21d2_0.file.admin__bottom.tpl.html.php",
+		"/C/OSPanel/userdata/logs/Apache_2.4-PHP_7.2-7.4+Nginx_1.23_error.log",
+		"/C/OSPanel/domains/nixminsk.os/core/cache/NA^c217cbf56745520f6606d5e73b960169535ca8ef_0.file.appOrderContent.tpl.html.php",
+		"/C/OSPanel/domains/nixminsk.os/errors/FILEDEBUG.JSON",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/app_invoice.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/utils/updateRow.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/utils/updateModelOrderContent.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/appCurrency.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/database/mysqli.php",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/main_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/debug_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/cart_functions.js",
+		"/C/OSPanel/domains/nixminsk.os/admin.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/app_image_browser.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/nano-livesearch.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/viewOrderContent.js",
+		"/D/OSPanel/domains/nixminsk.os/ADMIN74.sublime-project",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_edit.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appOrderContent.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/app_ordercontentTEMP.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/admin.js",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/product_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/cart_functions.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/invoice_functions.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/index__header_sticky.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/invoice_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/cache/NA^50590721cccc8340c21b1e031d9831359b67d6ec_0.file.custord_orders_edit.tpl.html.php",
+		"/C/OSPanel/domains/nixminsk.os/data/admin/admin.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/appCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/viewCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/appCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/modelOrderContent.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/classes/ClassProductRow.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/modelCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_edit.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders_edit.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/modelCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/app_ordercontentTEMP.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/classCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/myCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/viewCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/js-modules/currency/model.js",
+		"/D/OSPanel/domains/nixminsk.os/lib/ckeditor/plugins/forms/dialogs/select.js",
+		"/D/OSPanel/domains/nixminsk.os/core/languages/nano_const.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__bottom.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/js-modules/currency/model.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/modelCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/appCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/appOrderContent.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/appCurrency.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/utils/updateModelCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/NANO_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/order_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders_edit.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/main_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/currency_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/app_ordercontent.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/app_invoice.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/modules_payment.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/conf_setting.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/appImageBrowser.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/data/admin/admin.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/head.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_list.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/errors/PHPERROR.py",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/admin.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__head.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/js-modules/currency/controller.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/js-modules/currency/model.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/js-modules/currency/view/currencyView.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/app_ordercontent.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/admin.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/classCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/classes/classNewCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/js-modules/orders/model.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/js-modules/orders/controller.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_custgroup.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_custlist.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_order_statuses.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_filter_form.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/TRASH/custord_orders_controller.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/index.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/nano-toasts.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/view/myCurrency.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/jQueryScripts.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/TRASH/modules_payment.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/custord_orders_model.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/custord_orders_controller.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/app_invoice.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders_list.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/TRASH/app_ordercontentTEMP.js",
+		"/D/OSPanel/domains/nixminsk.os/lib/ckeditor/plugins/btgrid/styles/editor.css",
+		"/D/OSPanel/domains/nixminsk.os/lib/ckeditor/ckeditor.js",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/debug_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/index.php",
+		"/c/ospanel/domains/new.nixminsk.by/core/tpl/admin/js/view/mycurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/js/TRASH/appOLD_ordercontent.js",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/app_ordercontent.tpl.html",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/custord_orders.tpl.html",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/js/classCurrency.js",
+		"/c/ospanel/domains/new.nixminsk.by/core/tpl/admin/js/appold_ordercontent.js",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/js/app_ordercontent.js",
+		"/C/OSPanel/progs/Default/Sublime_text/Data/Packages/User/CodeFormatter.sublime-settings",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/js/classOrderRow.js",
+		"/C/OSPanel/domains/new.nixminsk.by/errors/FILEDEBUG.JSON",
+		"/C/OSPanel/domains/new.nixminsk.by/core/functions/currency_functions.php",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/admin.tpl.html",
+		"/C/OSPanel/domains/new.nixminsk.by/data/admin/admin.js",
+		"/C/OSPanel/domains/new.nixminsk.by/core/tpl/admin/js/app_ordercontentTEMP.js",
+		"/C/OSPanel/domains/new.nixminsk.by/core/includes/admin/sub/custord_orders_edit.php",
+		"/C/OSPanel/domains/new.nixminsk.by/core/functions/main_functions.php",
+		"/C/OSPanel/domains/new.nixminsk.by/core/functions/order_status_functions.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 226.0,
+		"where_history":
+		[
+			"<project filters>",
+			"<open files>",
+			"<project filters>",
+			"C:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\admin\\apps",
+			"<open files>",
+			"open files>",
+			"<project filters>, *.php",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>, *.JS",
+			"<project filters>, *.php",
+			"<project filters>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<open files>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.tpl.html",
+			"<project filters>",
+			"<open files>",
+			"<project filters>",
+			"<project filters>, *.tpl.html",
+			"<project filters>",
+			"<project filters>, *.tpl.html",
+			"<project filters>, *.tpl",
+			"<project filters>",
+			"<open files>",
+			"<project filters>",
+			"<open files>,<project filters>",
+			"<open files>",
+			"D:\\OSPanel\\domains\\new.nixminsk.by\\core\\smarty,<project filters>",
+			"<project filters>,*.php",
+			"<project filters>",
+			"D:\\OSPanel\\domains\\new.nixminsk.by\\core\\modules,<project filters>",
+			" -*.py, -*.log",
+			" -*.py, -*.log, *.php",
+			" -*.py, -*.log",
+			" -*.py, -*.log, -russian.php",
+			" -*.py, -*.logб -russian.php",
+			" -*.py, -*.log",
+			" -*.py, ,-\\userdata\\logs",
+			" -*.py, ,-C:\\OSPanel\\userdata\\logs",
+			" -*.py",
+			" -*.py, *stat*",
+			" -*.py",
+			"*.php, -*.py",
+			"*.js, -*.py",
+			"-*.py",
+			"- *.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstrap-icons-1.10.2",
+			"bootstrap-select-1.14.0-beta2",
+			"-5.3.0-dist",
+			"-5.3.",
+			"-5.3.0-dist",
+			"5.3.0",
+			"bi-x",
+			"operation",
+			"'btn-success'",
+			"\n\n        el.classList.",
+			"\n        \n        el.classList",
+			"\n        \n        el.classList.",
+			"submitFormBtns",
+			"operation",
+			"{*",
+			"operation",
+			"SaveSimplePrices",
+			"savePrices",
+			"saveSimplePrices",
+			"data-operation",
+			"data-action",
+			"&",
+			"user_pw",
+			"col-sm-10",
+			"user_login",
+			"image/x-icon",
+			"js",
+			"Радость и веселье, отовсюду смех, мы вчера казнили недовольных всех...",
+			"console",
+			"setRawValue(ff(",
+			"setRawValue(ff(data",
+			"\\",
+			"bootstrap.min.js",
+			"bootstrap.min",
+			"setRawValue",
+			";",
+			"Скидка или наценка в $",
+			"; ",
+			"cleaveDiscountValue",
+			",\n",
+			"cleaveDiscountValue",
+			"currency",
+			"OutPrice, 4",
+			"OutPrice",
+			"settings",
+			"settingsOutPrice",
+			"settingsDiscount",
+			"    // numeralIntegerScale: 3,\n    // numeralThousandsGroupStyle: 'thousand',",
+			"settingsCurrencyPlus",
+			", \",\", \"_\"",
+			"data.currencyValue",
+			".OutPrice = ",
+			"OutVAT_Value",
+			"initData",
+			"priority",
+			"activateSaveButtons",
+			"$_GET[\"do\"]",
+			"process",
+			"app",
+			"ajax",
+			"url = ",
+			"\" role=\"alert\"",
+			" role=\"alert\"",
+			"setTimeout",
+			".setAttribute('disabled', true);",
+			"orderForm",
+			"submitFormBtn",
+			"buttonsSaveOrderContent",
+			"submitFormBtn",
+			"function=payment_changed",
+			"mySpinner.innerHTML = SPINNER_SHOW",
+			" mySpinner.innerHTML = SPINNER_SHOW",
+			"mySpinner",
+			"mySpinner.innerHTML = SPINNER_SHOW",
+			"onClearClick",
+			"d=\"search-button-reset\"",
+			"FROM `PRICE_Pictures`",
+			"SELECT `img_url` FROM `PRICE_Pictures` WHERE",
+			"console",
+			"inputDiscountValue",
+			"verifyValue",
+			"input-numbers=\"4\"",
+			"input-numbers=",
+			" text-success",
+			"console",
+			"js-collapse-old\" data-old=\"",
+			" js-collapse-old\" data-old=\"purePrice\"",
+			"helpUpdateView(controlsOutPrice[ii]",
+			"updateRow(controlsShippingPay[ii]",
+			"[data-control=\"'+helpcontrol+'\"]",
+			"[data-helpid=\"'+helpid+'\"]",
+			"{$oc[i].itemID}",
+			"helpUpdate",
+			"$oc[i].outPrice",
+			"data-control=\"outPrice\"",
+			"settingsCurrency",
+			"cleavesShippingPay",
+			"shippingPay",
+			"console",
+			"updateOrderContentForm",
+			"cleaveDiscountValue",
+			"Percent",
+			"Заказанные товары без НДС - так как видел их клиент",
+			"input-numbers=\"4\"",
+			"Валюта, курс БЕЗ НДС",
+			"НДС:",
+			"<span class=BYN>BBB</span>",
+			"BYN",
+			"</span>(<span",
+			">(<",
+			"ItemsQuantity",
+			"totalItemsQuantity_STRING",
+			"( $n, $rod )",
+			"rod",
+			"countOrderedCarts",
+			"totalItemsQuantity",
+			"OutPrice",
+			"el",
+			"Total",
+			"Всего товарных позиций",
+			"querySelectorAll",
+			"_STRING",
+			"'),\n",
+			"getElementById",
+			" <span class=\"text-end BYN\">{$MyOrderContent.targetCurrencyCode}</span>",
+			"invoiceBYformat",
+			"<span class=\"fw-lighter\"",
+			":"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bootstrap-icons-1.10.5",
+			"-5.3.1-dist",
+			"-5.3.1-dist\n",
+			"SavePrices\n",
+			"SaveSimplePrices\n",
+			"\";\n",
+			"DEFAULT_VAT_RATE",
+			"input-numbers",
+			"maximalShippingDelayString",
+			"outDiscountValue",
+			"discountValue",
+			".value=(",
+			"shippingPay",
+			"outCost_WITH_VAT",
+			"tdoutVAT_Value",
+			"outCost",
+			"purePrice",
+			"outPrice",
+			"Price",
+			"controlOrderCurencyCode",
+			"controlOrderCurencyValue",
+			".innerHtml=(",
+			".innerHtml(",
+			"buttons_DeleteCartItem",
+			"buttonInsertNewCartItem",
+			"buttonSaveOrderContent",
+			"Price",
+			"WITHOUT_VAT",
+			"purePrice",
+			"image_fullpath",
+			"setting_RATES",
+			"UTF_ERROR_LOG",
+			"href=\"/data/",
+			"href=\"/core/",
+			" href=\"/lib/",
+			"src=\"/data/",
+			"src=\"/core/",
+			"href=\"core",
+			"href=\"lib/",
+			"=\"/lib/",
+			"td",
+			"th",
+			"bootstrap-icons-1.10.2",
+			"1.10.2",
+			"asyncSaveCompany(",
+			"0-beta3",
+			"getHtmlPaymentSelector",
+			"getHtmlNavigator",
+			"getShippingProducts",
+			"explode"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__head.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								579
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										605,
+										606
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										553,
+										554
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Smarty/Syntaxes/Smarty.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/index__head.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								875,
+								875
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										895,
+										896
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										843,
+										844
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Smarty/Syntaxes/Smarty.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3072,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										294,
+										305
+									],
+									[
+										668,
+										679
+									],
+									[
+										1280,
+										1291
+									],
+									[
+										1868,
+										1890
+									],
+									[
+										2191,
+										2213
+									],
+									[
+										2733,
+										2755
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1868,
+								1890
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "C:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\admin",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 551.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__bottom.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										85,
+										86
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										29,
+										30
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Smarty/Syntaxes/Smarty.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/OSPanel/domains/nixminsk.os/core/languages/russian.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102604,
+								102604
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										104774,
+										104775
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										102188,
+										102189
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 28430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 221.333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.203644094462,
+			0.356917292362,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 209.333333333
+	},
+	"output.find_results":
+	{
+		"height": 449.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/php5.3-win.sublime-build",
+	"project": "/C/OSPanel/domains/nixminsk.os/ADMIN74.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"admin.js",
+				"nixminsk.os\\core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"headtpl",
+				"nixminsk.os\\core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"mainfu",
+				"nixminsk.os\\core\\functions\\main_functions.php"
+			],
+			[
+				"app.php",
+				"nixminsk.os\\core\\includes\\processor\\app_invoice.php"
+			],
+			[
+				"admin",
+				"nixminsk.os\\core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"admin.php",
+				"nixminsk.os\\admin.php"
+			],
+			[
+				"orderconphp",
+				"nixminsk.os\\core\\includes\\processor\\app_ordercontent.php"
+			],
+			[
+				"mai",
+				"nixminsk.os\\core\\functions\\main_functions.php"
+			],
+			[
+				"mainfuphp",
+				"nixminsk.os\\core\\functions\\main_functions.php"
+			],
+			[
+				"adminjs",
+				"nixminsk.os\\core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"modelcurr",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\modelCurrency.js"
+			],
+			[
+				"ordermodejs",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\OrderContent\\modelOrderContent.js"
+			],
+			[
+				"viewCurrency",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\viewCurrency.js"
+			],
+			[
+				"custord_orders_edit",
+				"nixminsk.os\\core\\tpl\\admin\\custord_orders_edit.tpl.html"
+			],
+			[
+				"ordertpl",
+				"nixminsk.os\\core\\tpl\\admin\\custord_orders.tpl.html"
+			],
+			[
+				"FILE",
+				"nixminsk.os\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"curvie",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\viewCurrency.js"
+			],
+			[
+				"appjs",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.js"
+			],
+			[
+				"appcu",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\appCurrency.js"
+			],
+			[
+				"sele",
+				"nixminsk.os\\lib\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+			],
+			[
+				"const",
+				"nixminsk.os\\core\\languages\\nano_const.php"
+			],
+			[
+				"admin__bottom",
+				"nixminsk.os\\core\\tpl\\admin\\admin__bottom.tpl.html"
+			],
+			[
+				"nano_const",
+				"nixminsk.os\\core\\languages\\nano_const.php"
+			],
+			[
+				"ad",
+				"nixminsk.os\\admin.php"
+			],
+			[
+				"nano-toasts.js",
+				"nixminsk.os\\core\\tpl\\user\\nano\\js\\nano-toasts.js"
+			],
+			[
+				"admintpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin.tpl.html"
+			],
+			[
+				"editphp",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_orders_edit.php"
+			],
+			[
+				"admijs",
+				"new.nixminsk.by\\data\\admin\\admin.js"
+			],
+			[
+				"main",
+				"new.nixminsk.by\\core\\functions\\main_functions.php"
+			],
+			[
+				"admin__megamenu",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__megamenu.tpl.html"
+			],
+			[
+				"order",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_orders.php"
+			],
+			[
+				"py",
+				"new.nixminsk.by\\errors\\PHPERROR.py"
+			],
+			[
+				"cartjs",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\js\\cart_functions.js"
+			],
+			[
+				"invoijs",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\js\\invoice_functions.js"
+			],
+			[
+				"cartj",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\js\\cart_processing.js"
+			],
+			[
+				"admintp",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin.tpl.html"
+			],
+			[
+				"ordertplh",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord_orders.tpl.html"
+			],
+			[
+				"jQueryScripts",
+				"new.nixminsk.by\\core\\tpl\\admin\\js\\jQueryScripts.js"
+			],
+			[
+				"admitpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin.tpl.html"
+			],
+			[
+				"orderfu",
+				"new.nixminsk.by\\core\\functions\\order_functions.php"
+			],
+			[
+				"arra",
+				"new.nixminsk.by\\trash\\array.vb"
+			],
+			[
+				"orderphp",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_orders_edit.php"
+			],
+			[
+				"ordfun",
+				"new.nixminsk.by\\core\\functions\\order_functions.php"
+			],
+			[
+				"edittpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord_orders_edit.tpl.html"
+			],
+			[
+				"index",
+				"new.nixminsk.by\\index.php"
+			],
+			[
+				"categophp",
+				"new.nixminsk.by\\core\\includes\\category.php"
+			],
+			[
+				"file",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"shoppincart",
+				"new.nixminsk.by\\core\\includes\\shopping_cart.php"
+			],
+			[
+				"app_ordercontent.tpl.html",
+				"new.nixminsk.by\\core\\tpl\\admin\\app_ordercontent.tpl.html"
+			],
+			[
+				"erpy",
+				"new.nixminsk.by\\errors\\PHPERROR.py"
+			],
+			[
+				"filed",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"MAINF",
+				"new.nixminsk.by\\core\\functions\\main_functions.php"
+			],
+			[
+				"appord",
+				"new.nixminsk.by\\core\\includes\\processor\\app_ordercontent.php"
+			],
+			[
+				"CONTROLtpl",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\product_detailed__adminTable.tpl.html"
+			],
+			[
+				"app",
+				"new.nixminsk.by\\core\\includes\\processor\\app_image_browser.php"
+			],
+			[
+				"admjs",
+				"new.nixminsk.by\\core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"data/admin/style.css",
+				"new.nixminsk.by\\data\\admin\\style.css"
+			],
+			[
+				"appinv",
+				"new.nixminsk.by\\core\\tpl\\admin\\app_invoice.tpl.html"
+			],
+			[
+				"dminph",
+				"new.nixminsk.by\\admin.php"
+			],
+			[
+				"mega",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__megamenu.tpl.html"
+			],
+			[
+				"orderlistpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord_orders_list.tpl.html"
+			],
+			[
+				"ordereditpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord_orders_edit.tpl.html"
+			],
+			[
+				"custord_orders_e",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_orders_edit.php"
+			],
+			[
+				"custord_orders_list",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_orders_list.php"
+			],
+			[
+				"contrtpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_countries.tpl.html"
+			],
+			[
+				"admin__head",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"admtp",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin.tpl.html"
+			],
+			[
+				"ad.js",
+				"new.nixminsk.by\\core\\tpl\\admin\\js\\head.js"
+			],
+			[
+				"admi",
+				"new.nixminsk.by\\admin.php"
+			],
+			[
+				"admiphp",
+				"new.nixminsk.by\\admin.php"
+			],
+			[
+				"my",
+				"new.nixminsk.by\\core\\includes\\database\\mysqli.php"
+			],
+			[
+				"custlisttp",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord_custlist.tpl.html"
+			],
+			[
+				"custlistph",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_custlist.php"
+			],
+			[
+				"megame",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__megamenu.tpl.html"
+			],
+			[
+				"curtpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_currencies.tpl.html"
+			],
+			[
+				"cate",
+				"new.nixminsk.by\\core\\includes\\category.php"
+			],
+			[
+				"admin__accordion",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__accordion.tpl.html"
+			],
+			[
+				"TPL.HTML",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_setting.tpl.html"
+			],
+			[
+				"custlist",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\custord_custlist.php"
+			],
+			[
+				"confsetttp",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_setting.tpl.html"
+			],
+			[
+				"fil",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"Fi",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"adminphp",
+				"new.nixminsk.by\\admin.php"
+			],
+			[
+				"modpaytpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\modules_payment.tpl.html"
+			],
+			[
+				"uploone",
+				"new.nixminsk.by\\core\\includes\\processor\\upload_one_image.php"
+			],
+			[
+				"admihead",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"paymetpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\modules_payment.tpl.html"
+			],
+			[
+				"smarty",
+				"new.nixminsk.by\\core\\smarty\\Smarty.class.php"
+			],
+			[
+				"func",
+				"new.nixminsk.by\\core\\functions\\functions.php"
+			],
+			[
+				"indphp",
+				"new.nixminsk.by\\index.php"
+			],
+			[
+				"config",
+				"new.nixminsk.by\\lib\\mpdf\\config.php"
+			],
+			[
+				"timef",
+				"new.nixminsk.by\\core\\functions\\datetime_functions.php"
+			],
+			[
+				"cour",
+				"new.nixminsk.by\\core\\modules\\shipping\\templates\\courier.tpl.html"
+			],
+			[
+				"json",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"indehead",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\index__head.tpl.html"
+			],
+			[
+				"fun.js",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\js\\cart_functions.js"
+			],
+			[
+				"nano",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\css\\nano.css"
+			],
+			[
+				"admicss",
+				"new.nixminsk.by\\core\\tpl\\admin\\css\\admin.css"
+			],
+			[
+				"admitp",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin.tpl.html"
+			],
+			[
+				"admhea",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"conf",
+				"new.nixminsk.by\\core\\includes\\admin\\conf.php"
+			],
+			[
+				"svg",
+				"new.nixminsk.by\\core\\tpl\\user\\nano\\index__svg.tpl.html"
+			],
+			[
+				"adminedit",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_admin_edit.tpl.html"
+			],
+			[
+				"admineditp",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_admin_edit.php"
+			],
+			[
+				"sett",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_setting.tpl.html"
+			],
+			[
+				"debug",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"modu",
+				"new.nixminsk.by\\core\\functions\\module_function.php"
+			],
+			[
+				"shipping",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_shipping.php"
+			],
+			[
+				"module",
+				"new.nixminsk.by\\core\\includes\\admin\\modules.php"
+			],
+			[
+				"def",
+				"new.nixminsk.by\\core\\tpl\\admin\\default.tpl.html"
+			],
+			[
+				"custord",
+				"new.nixminsk.by\\core\\includes\\admin\\custord.php"
+			],
+			[
+				"countriphp",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_countries.php"
+			],
+			[
+				"currphp",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_currencies.php"
+			],
+			[
+				"zonep",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_zones.php"
+			],
+			[
+				"admed",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_admin_edit.tpl.html"
+			],
+			[
+				"conf_admin_edit",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_admin_edit.php"
+			],
+			[
+				"custphp",
+				"new.nixminsk.by\\core\\includes\\admin\\custord.php"
+			],
+			[
+				"custtpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord.tpl.html"
+			],
+			[
+				"conftp",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf.tpl.html"
+			],
+			[
+				"statut",
+				"new.nixminsk.by\\core\\tpl\\admin\\custord_order_statuses.tpl.html"
+			],
+			[
+				"currenciestpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\conf_currencies.tpl.html"
+			],
+			[
+				"currencies",
+				"new.nixminsk.by\\core\\includes\\admin\\sub\\conf_currencies.php"
+			],
+			[
+				"de",
+				"new.nixminsk.by\\core\\tpl\\admin\\default.tpl.html"
+			],
+			[
+				"navb",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__navbar.tpl.html"
+			],
+			[
+				"acordtpl",
+				"new.nixminsk.by\\core\\tpl\\admin\\admin__accordion.tpl.html"
+			],
+			[
+				"jso",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			],
+			[
+				"DEF",
+				"new.nixminsk.by\\core\\tpl\\admin\\default.tpl.html"
+			],
+			[
+				"deb",
+				"new.nixminsk.by\\errors\\FILEDEBUG.JSON"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 324.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"199":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"201":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.413507109005,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 695.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

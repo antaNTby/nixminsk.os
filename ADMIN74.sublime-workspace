@@ -1,0 +1,1896 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"buyerID"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"REQ",
+				"Requires"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"re",
+				"requisitesInputs"
+			],
+			[
+				"error",
+				"errorlog"
+			],
+			[
+				"sha",
+				"shadow-lg"
+			],
+			[
+				"btn",
+				"btn_save_requisites"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"data-buy",
+				"data-buyerID"
+			],
+			[
+				"sq",
+				"sql_query"
+			],
+			[
+				"cur",
+				"currency_rate"
+			],
+			[
+				"da",
+				"dataPDO"
+			],
+			[
+				"order",
+				"order_time"
+			],
+			[
+				"d",
+				"dataPDO"
+			],
+			[
+				"in",
+				"invoiceID"
+			],
+			[
+				"is",
+				"isReturnDataOperation"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"form",
+				"form-text"
+			],
+			[
+				"Pa",
+				"PaymentType"
+			],
+			[
+				"Delivery",
+				"DeliveryType"
+			],
+			[
+				"pur",
+				"purposeID"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"Load",
+				"LoadInvoice"
+			],
+			[
+				"compa",
+				"company_adress"
+			],
+			[
+				"i",
+				"invoice"
+			],
+			[
+				"company",
+				"company_adress"
+			],
+			[
+				"getCu",
+				"get_current_time"
+			],
+			[
+				"bg-o",
+				"bg-opacity-50"
+			],
+			[
+				"flo",
+				"form-floating"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"req",
+				"requisites"
+			],
+			[
+				"bg-",
+				"bg-white"
+			],
+			[
+				"text-bg",
+				"text-bg-danger"
+			],
+			[
+				"co",
+				"companyID"
+			],
+			[
+				"comp",
+				"companyID"
+			],
+			[
+				"Kill",
+				"KillCompany"
+			],
+			[
+				"float",
+				"float-end"
+			],
+			[
+				"text",
+				"text-small"
+			],
+			[
+				"roun",
+				"rounded"
+			],
+			[
+				"vi",
+				"visually-hidden"
+			],
+			[
+				"Inv",
+				"InvoiceSimple"
+			],
+			[
+				"company_d",
+				"company_director0"
+			],
+			[
+				"li",
+				"link-to-Order"
+			],
+			[
+				"to",
+				"toOrderID"
+			],
+			[
+				"incl",
+				"incl1"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"direc",
+				"directlog"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"quer",
+				"queryType"
+			],
+			[
+				"swit",
+				"switch"
+			],
+			[
+				"T",
+				"Table"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"db",
+				"db_conn"
+			],
+			[
+				"pm",
+				"pm_Names"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"newV",
+				"newValue"
+			],
+			[
+				"rea",
+				"read_only"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"read",
+				"read_only"
+			],
+			[
+				"x",
+				"xToText"
+			],
+			[
+				"sear",
+				"searchstring"
+			],
+			[
+				"where",
+				"where_clause"
+			],
+			[
+				"dire",
+				"directlog"
+			],
+			[
+				"ite",
+				"itemID"
+			],
+			[
+				"pro",
+				"productID"
+			],
+			[
+				"text-",
+				"text-start"
+			],
+			[
+				"te",
+				"text-end"
+			],
+			[
+				"btn-s",
+				"btn-outline-secondary"
+			],
+			[
+				"c",
+				"currencyValue"
+			],
+			[
+				"newP",
+				"newParams"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"my",
+				"myModal"
+			],
+			[
+				"ini",
+				"initialTable"
+			],
+			[
+				"sqlOr",
+				"sqlOrderTable"
+			],
+			[
+				"D",
+				"DO_RELOAD"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"sta",
+				"status_name"
+			],
+			[
+				"floa",
+				"floatval()"
+			],
+			[
+				"curr",
+				"currencyValue"
+			],
+			[
+				"dis",
+				"disableInputs"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"js-coll",
+				"js-collapse-vat"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"conso",
+				"console.table"
+			],
+			[
+				"se",
+				"settingsCurrency"
+			],
+			[
+				"setti",
+				"settingsPositiveInteger"
+			],
+			[
+				"Cl",
+				"Cleaves"
+			],
+			[
+				"To",
+				"Totals"
+			],
+			[
+				"C",
+				"CID"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"S",
+				"Strings"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"number",
+				"number_to_string"
+			],
+			[
+				"shi",
+				"ShippingPay"
+			],
+			[
+				"V",
+				"VAT_Rate"
+			],
+			[
+				"P",
+				"PI"
+			],
+			[
+				"new",
+				"newRow"
+			],
+			[
+				"prod",
+				"prodRow"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"ne",
+				"newParams"
+			],
+			[
+				"has",
+				"hasVATIncluded"
+			],
+			[
+				"sett",
+				"settingsCurrency"
+			],
+			[
+				"setting",
+				"settingsCurrency"
+			],
+			[
+				"ch",
+				"check_mark"
+			],
+			[
+				"nb",
+				"nbsp"
+			],
+			[
+				"cu",
+				"currencies"
+			],
+			[
+				"curren",
+				"currencyView"
+			],
+			[
+				"calculate",
+				"calculateNewCurrencyValue"
+			],
+			[
+				"Q",
+				"Quantity"
+			],
+			[
+				"out",
+				"outPrice"
+			],
+			[
+				"_co",
+				"_controlDiscountPercent"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"MyQ",
+				"MyQuatitues"
+			],
+			[
+				"m",
+				"MyQuatitues"
+			],
+			[
+				"currency",
+				"currency_value"
+			],
+			[
+				"qo",
+				"querySelectorAll"
+			],
+			[
+				"red",
+				"mediumvioletred"
+			],
+			[
+				"extra",
+				"extradiscountValue"
+			],
+			[
+				"par",
+				"parseFloat〔function〕"
+			],
+			[
+				"My",
+				"MyCurrency"
+			],
+			[
+				"nowrap",
+				"flex-nowrap"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core/includes/database/mysqli.php",
+			"settings":
+			{
+				"buffer_size": 11027,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AwAAAPUUAAAAAAAA9RQAAAAAAAABAAAAM0kFAAAAAAAASQUAAAAAAAABAAAAMzsEAAAAAAAAOwQAAAAAAAABAAAAMw",
+					"AQAAAAAAAAADAAAAPAQAAAAAAAA8BAAAAAAAAAAAAAAAAPC/SgUAAAAAAABKBQAAAAAAAAAAAAAAAPC/9hQAAAAAAAD2FAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AwAAAPMUAAAAAAAA9BQAAAAAAAAAAAAASAUAAAAAAABJBQAAAAAAAAAAAAA7BAAAAAAAADwEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAOwQAAAAAAAA7BAAAAAAAAAAAAAAAAPC/SAUAAAAAAABIBQAAAAAAAAAAAAAAAPC/8xQAAAAAAADzFAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/D/OSPanel/domains/antCMS.os/admin/core/connect.php",
+			"settings":
+			{
+				"buffer_size": 2244,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instp",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"print",
+				"File: Print"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"comp",
+				"Compare selections"
+			],
+			[
+				"beyond",
+				"BeyondCompare: Show Diff"
+			],
+			[
+				"codefor",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"code",
+				"CodeFormatter: Show PHP Transformations"
+			],
+			[
+				"php",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 234.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OSPanel/domains/nixminsk.os"
+	],
+	"file_history":
+	[
+		"/D/OSPanel/domains/nixminsk.os/core/includes/applications/app_invoicesimple.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/InvoiceSimple/appInvoiceSimple.js",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/order_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/appImageBrowser.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/AdminCompanies/appAdminCompanyEdit.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/InvoiceSimple/appInvoiceSimple.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/applications/app_admincompanies.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/applications/operations/operationCorsCompany.php",
+		"/D/OSPanel/domains/nixminsk.os/errors/FILEDEBUG.JSON",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/applications/operations/operationAddCompany.php",
+		"/D/OSPanel/domains/nixminsk.os/core/classes/class.adminSSP.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_companies_edit.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/modules/payment/invoice_2024.php",
+		"/D/OSPanel/domains/nixminsk.os/lib/lightgallery/lightgallery.umd.js",
+		"/D/OSPanel/domains/nixminsk.os/lib/tfm/tfm.php",
+		"/D/OSPanel/domains/nixminsk.os/errors/PHPERROR.py",
+		"/C/OSPanel/domains/nixminsk.os/errors/PHPERROR.py",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/NANO_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/quick_cart_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/cart_functions.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/head.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/invoice_functions.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/nano.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/cart_processing.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/quick_cart.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/quick_cart__after_processing.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/quick_cart__invoice_addon.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/user/nano/quick_cart__success.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders_edit.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/debug_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appOrderContent.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_edit.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_list.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/invoice_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/classes/class.SSP.php",
+		"/D/OSPanel/domains/nixminsk.os/core/config/tables.inc.php",
+		"/D/OSPanel/domains/nixminsk.os/core/modules/tpl/setting_templates/setting_IMAGE.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/NANO_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/appCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/viewCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Currency/modelCurrency.js",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/order_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/AdminCompanies/appAdminCompanyEdit.js",
+		"/C/OSPanel/domains/nixminsk.os/core/classes/class.adminSSP.php",
+		"/C/OSPanel/domains/nixminsk.os/core/modules/payment/invoice_2023.php",
+		"/C/OSPanel/domains/nixminsk.os/errors/FILEDEBUG.JSON",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/InvoiceSimple/appInvoiceSimple.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/InvoiceSimple/DELETE THIS FILE appInvoiceSimple3.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_invoices_CONTROLs_Descriptions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/applications/app_invoicesimple.php",
+		"/D/OSPanel/domains/nixminsk.os/data/files/contracts/Цементнваая.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_invoices.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/datetime_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/js/invoice_functions.js",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/quick_cart__invoice_addon.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/functions/main_functions.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/app_admincompanies.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/app_invoicesimple.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/app_invoice.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/product_detailed.php",
+		"/c/ospanel/domains/nixminsk.os/core/includes/processor/invoice.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/invoicePrint.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/admin.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_filter_form.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders_edit.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_companies_edit.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_companies_table.tpl.html",
+		"/c/ospanel/domains/nixminsk.os/core/includes/processor/app_companies.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/InvoicePrint.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/AdminCompanies/appAdminCompaniesTable.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Invoice/appInvoice.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Invoice/appInvoice.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appOrderContent.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Invoice/DELETE THIS FILE appInvoiceSimple3.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationSetReadonly.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appOrderContent.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/AdminProductDataTable/appAdminProductDataTable.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/InvoiceSimple/appInvoiceSimple.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationSaveAll.php",
+		"/c/ospanel/domains/nixminsk.os/core/tpl/admin/apps/invoicesimple/delete this file appinvoicesimple3.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/lib/bootstrap/bootstrap-5.3.1-dist/css/bootstrap-utilities.css",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Toasts/appToasts.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/js/admin.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__navbar.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/admin.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Toasts/appToasts.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/viewDialog.js",
+		"/C/OSPanel/domains/nixminsk.os/lib/jquery-datetimepicker/jquery.datetimepicker.full.js",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/OrderContent/appAddProduct.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationCloneCompany.php",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_companies.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/css/admin.css",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders_edit.php",
+		"/C/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_companies.tpl.html",
+		"/C/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationUniteCompanies.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/companies_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/main_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationAddCompany.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/admin.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/app_invoicesimple.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_companies.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/app_admincompanies.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/user/nano/index.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__bottom.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/admin__head.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/custord_orders.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationCloneCompany.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationUniteCompanies.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_orders.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/AdminCompanies/appAdminCompaniesTable.js",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/app_ordercontent.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_companies.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/custord_companies_table.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/custord.php",
+		"/D/OSPanel/domains/nixminsk.os/ADMIN74.sublime-project",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/appInvoiceSimple.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/admin/sub/catalog_import_nixru_xml.php",
+		"/D/OSPanel/domains/nixminsk.os/core/languages/russian.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationSaveAll.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationSetReadonly.php",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/processor/operations/operationCorsCompany.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Toasts/appToasts.tpl.html",
+		"/D/OSPanel/domains/nixminsk.os/core/functions/curl_functions.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/apps/Toasts/appToasts.js",
+		"/D/OSPanel/domains/nixminsk.os/core/includes/database/mysqli.php",
+		"/D/OSPanel/domains/nixminsk.os/core/tpl/admin/js/admin.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 226.0,
+		"where_history":
+		[
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>, *.tpl*",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.tpl",
+			"<project filters>, *.js",
+			"",
+			"<project filters>, *.php",
+			"<project filters>, *.tpl*",
+			"<project filters>, *.php",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>, *.php",
+			"<project filters>, *.js",
+			"<project filters>, *.php",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>, *.tpl.html",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>, *.js",
+			"<project filters>, *.php",
+			"<project filters>, *.js",
+			"<project filters>, *.php",
+			"<project filters>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<current file>",
+			"<project filters>,<open files>,<current file>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>,<current file>",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>",
+			"C:\\OSPanel\\domains\\nixminsk.os\\core\\tpl\\admin\\apps",
+			"<open files>",
+			"open files>",
+			"<project filters>, *.php",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<project filters>, *.php",
+			"<project filters>, *.JS",
+			"<project filters>, *.php",
+			"<project filters>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.js",
+			"<project filters>",
+			"<open files>",
+			"<project filters>,<open files>",
+			"<project filters>",
+			"<project filters>, *.tpl.html",
+			"<project filters>",
+			"<open files>",
+			"<project filters>",
+			"<project filters>, *.tpl.html",
+			"<project filters>",
+			"<project filters>, *.tpl.html",
+			"<project filters>, *.tpl",
+			"<project filters>",
+			"<open files>",
+			"<project filters>",
+			"<open files>,<project filters>",
+			"<open files>",
+			"D:\\OSPanel\\domains\\new.nixminsk.by\\core\\smarty,<project filters>",
+			"<project filters>,*.php",
+			"<project filters>",
+			"D:\\OSPanel\\domains\\new.nixminsk.by\\core\\modules,<project filters>",
+			" -*.py, -*.log",
+			" -*.py, -*.log, *.php",
+			" -*.py, -*.log",
+			" -*.py, -*.log, -russian.php",
+			" -*.py, -*.logб -russian.php",
+			" -*.py, -*.log",
+			" -*.py, ,-\\userdata\\logs",
+			" -*.py, ,-C:\\OSPanel\\userdata\\logs",
+			" -*.py",
+			" -*.py, *stat*",
+			" -*.py",
+			"*.php, -*.py",
+			"*.js, -*.py",
+			"-*.py",
+			"- *.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"utf8mb3",
+			"urlToReload",
+			"pdo_query_assoc( $PDO_connect, $bindings, $sql_query, 1 )",
+			"UpdateRequisites",
+			"CreateInvoice",
+			"UpdateRequisites",
+			"btn_save_requisites",
+			"btn-outline-dark",
+			"statusOkFlag",
+			"requisitesInputs",
+			"pm_fieldset",
+			"useCustomRequisitesEl",
+			"useCustomrequisitesEl",
+			"requisites_CHANGED",
+			"requisitiesrequisites",
+			"requisitiesrequisites_CHANGED",
+			"requisities",
+			"requisites",
+			"btn_save_requisites",
+			"REQUIRES_CHANGED",
+			"removeAttribute",
+			".forEach",
+			"querySelectorAll",
+			"removeAttribute",
+			"antaNT64",
+			"UpdateRequisites",
+			"CREATE TABLE `nano_invoices`",
+			"sql_create_table",
+			"LoadInvoice",
+			"Выбрать файл на сервере",
+			" Выбрать файл на сервере",
+			"payment_changed",
+			"SelectAllPaymentMethods",
+			" SET `invoice_time`",
+			"btn_CreateInvoice",
+			"binding",
+			"currency",
+			"CREATE TABLE `nano_invoices` (",
+			"CREATE TABLE `nano_invoices`",
+			"currencyValue\n",
+			"LANG_LOGO_FILE",
+			"variable",
+			"directlog",
+			"NEW_INVOICES_TABLE",
+			"NANO_INVOICES_TABLE",
+			" {/if} data-orderI",
+			" {if $order.statusID==2 || $order.statusID==3 } {* //архивный *} ",
+			"btn_SaveInvoice",
+			"if $c.read_only",
+			"!$invoice.buyerID",
+			"buyerID",
+			"_invoiceID",
+			"disabled",
+			"dataset.dataset",
+			"event.target",
+			"h5",
+			"'h5[data-buyerID]",
+			"buyerID",
+			"buyerid",
+			"buyerID",
+			"querySelector",
+			"buyerID",
+			"disabled",
+			"useCustomRequisitiesEl",
+			"readonlyLabelEl",
+			"read",
+			"chooseLastInvoices",
+			"antANT64",
+			"newID",
+			"chooseLastInvoices",
+			"jlog",
+			"datepickerContract",
+			"SetConractDate",
+			"_time",
+			"invoice",
+			"currency_rate",
+			"rate",
+			"btn_LoadInvoice",
+			"Load",
+			"Загрузить",
+			"Нет заказов",
+			"Выставить счет",
+			"getLastOrderInvoice",
+			"invoice.0",
+			"$invoice[0]",
+			"invoice",
+			"jlog",
+			");\n",
+			"get_ff4",
+			"jlog",
+			"log",
+			"SetInvoiceDefault",
+			"DO_RELOAD",
+			"isReturnDataOperations",
+			"urlToReload",
+			";",
+			"LoadInvoiceDefault",
+			"btn_SaveInvoice",
+			"LoadInvoiceDefault",
+			"LoadInvoice",
+			"($order.statusID eq 3) or $order.status_name==\" Активный\"",
+			"btn_replaceCompany",
+			"p",
+			"col-6",
+			"w-50 ",
+			"input-group mb-2",
+			" status:{$order.statusID}",
+			"\"off\" {if",
+			"off",
+			"{$invoice.0.AAA}",
+			"<option",
+			"option",
+			"Floating label select example",
+			"+",
+			":",
+			"= :",
+			"$",
+			"SaveInvoice",
+			"btn_SaveInvoice",
+			"SaveInvoiceAll",
+			"=:",
+			"termin",
+			"\", \"",
+			"                                        {if $termin_options|@count}\n                <datalist id=\"termin_list\">\n                    {html_options options=$termin_options}\n                </datalist>\n                {/if}",
+			"data.options",
+			">\n                        <label",
+			"termin",
+			"termin_options"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"requisites",
+			"requisitiesrequisites",
+			"chooseLastInvoices",
+			"\n                $DeliveryType = 0;// тип доставки - код: 0 -самовывоз, 1-доставка\n                if ( $data[\"Data\"][\"hosterTransport\"] == 1 ) {\n                    $DeliveryType = 1;\n                }\n",
+			"app_companies",
+			"Companies",
+			"Invoice",
+			"appInvoice.js",
+			"btn_cors",
+			"modalOrderContentItem",
+			"from",
+			"AdminProductDataTable",
+			");\n",
+			"&checkbox_order_status_3=1",
+			">\n",
+			"\";\n",
+			"DEFAULT_VAT_RATE",
+			"input-numbers",
+			"maximalShippingDelayString",
+			"outDiscountValue",
+			"discountValue",
+			".value=(",
+			"shippingPay",
+			"outCost_WITH_VAT",
+			"tdoutVAT_Value",
+			"outCost",
+			"purePrice",
+			"outPrice",
+			"Price",
+			"controlOrderCurencyCode",
+			"controlOrderCurencyValue",
+			".innerHtml=(",
+			".innerHtml(",
+			"buttons_DeleteCartItem",
+			"buttonInsertNewCartItem",
+			"buttonSaveOrderContent",
+			"Price",
+			"WITHOUT_VAT",
+			"purePrice",
+			"image_fullpath",
+			"setting_RATES",
+			"UTF_ERROR_LOG",
+			"href=\"/data/",
+			"href=\"/core/",
+			" href=\"/lib/",
+			"src=\"/data/",
+			"src=\"/core/",
+			"href=\"core",
+			"href=\"lib/",
+			"=\"/lib/",
+			"td",
+			"th",
+			"bootstrap-icons-1.10.2",
+			"1.10.2",
+			"asyncSaveCompany(",
+			"0-beta3",
+			"getHtmlPaymentSelector",
+			"getHtmlNavigator",
+			"getShippingProducts",
+			"explode"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core/includes/database/mysqli.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1084
+							],
+							[
+								1354,
+								1354
+							],
+							[
+								5366,
+								5366
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 23,
+							"color_helper.color_scheme": "Mariana.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1726578428.57,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 735.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/OSPanel/domains/antCMS.os/admin/core/connect.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2244
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 23,
+							"color_helper.color_scheme": "Mariana.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1726578428.57,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 221.333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.580941570048,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 209.333333333
+	},
+	"output.find_results":
+	{
+		"height": 449.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/php5.3-win.sublime-build",
+	"project": "ADMIN74.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"FIL",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"operat",
+				"core\\includes\\applications\\operations\\operationCorsCompany.php"
+			],
+			[
+				"invsimjs",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.js"
+			],
+			[
+				"ERRo",
+				"errors\\PHPERROR.py"
+			],
+			[
+				"err",
+				"errors\\PHPERROR.py"
+			],
+			[
+				"tfm",
+				"lib\\tfm\\tfm.php"
+			],
+			[
+				"CONST",
+				"core\\languages\\nano_const.php"
+			],
+			[
+				"compeditjs",
+				"core\\tpl\\admin\\apps\\AdminCompanies\\appAdminCompanyEdit.js"
+			],
+			[
+				"FILE",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"error",
+				"errors\\PHPERROR.py"
+			],
+			[
+				"appCurrency.js",
+				"core\\tpl\\admin\\apps\\Currency\\appCurrency.js"
+			],
+			[
+				"ordercontjs",
+				"core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.js"
+			],
+			[
+				"compedjs",
+				"core\\tpl\\admin\\apps\\AdminCompanies\\appAdminCompanyEdit.js"
+			],
+			[
+				"invoicetpl",
+				"core\\includes\\admin\\sub\\custord_invoices_CONTROLs_Descriptions.php"
+			],
+			[
+				"orderphp",
+				"core\\includes\\admin\\sub\\custord_orders_edit.php"
+			],
+			[
+				"Fil",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"appinvphp",
+				"core\\includes\\applications\\app_invoicesimple.php"
+			],
+			[
+				"invoicejs",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.js"
+			],
+			[
+				"invsitpl",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.tpl.html"
+			],
+			[
+				"ordertpl",
+				"core\\tpl\\admin\\custord_orders_edit.tpl.html"
+			],
+			[
+				"admin.php",
+				"admin.php"
+			],
+			[
+				"appInvoicePrint",
+				"core\\tpl\\admin\\apps\\appInvoicePrint.tpl.html"
+			],
+			[
+				"invoicesi",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.js"
+			],
+			[
+				"file",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"operationSetReadOnly",
+				"core\\includes\\processor\\operations\\operationSetReadonly.php"
+			],
+			[
+				"appcom",
+				"core\\includes\\processor\\app_admincompanies.php"
+			],
+			[
+				"compta",
+				"core\\tpl\\admin\\custord_companies_table.tpl.html"
+			],
+			[
+				"admin__navbar",
+				"core\\tpl\\admin\\admin__navbar.tpl.html"
+			],
+			[
+				"appInvoiceSimple.tpl.html",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.tpl.html"
+			],
+			[
+				"appAddProduct.tpl.html",
+				"core\\tpl\\admin\\apps\\OrderContent\\appAddProduct.tpl.html"
+			],
+			[
+				"admi",
+				"core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"admincss",
+				"core\\tpl\\admin\\css\\admin.css"
+			],
+			[
+				"compphp",
+				"core\\includes\\admin\\sub\\custord_companies.php"
+			],
+			[
+				"ADMCSS",
+				"core\\tpl\\admin\\css\\admin.css"
+			],
+			[
+				"fil",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"operationCloneCompany",
+				"core\\includes\\processor\\operations\\operationCloneCompany.php"
+			],
+			[
+				"appcomphp",
+				"core\\includes\\processor\\app_admincompanies.php"
+			],
+			[
+				"invsim",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.js"
+			],
+			[
+				"compedittpl",
+				"core\\tpl\\admin\\custord_companies_edit.tpl.html"
+			],
+			[
+				"orderedit",
+				"core\\includes\\admin\\sub\\custord_orders_edit.php"
+			],
+			[
+				"invsimphp",
+				"core\\includes\\processor\\app_invoicesimple.php"
+			],
+			[
+				"invtpl",
+				"core\\tpl\\admin\\apps\\InvoiceSimple\\appInvoiceSimple.tpl.html"
+			],
+			[
+				"orederedittpl",
+				"core\\tpl\\admin\\custord_orders_edit.tpl.html"
+			],
+			[
+				"main",
+				"core\\functions\\main_functions.php"
+			],
+			[
+				"admin",
+				"core\\tpl\\admin\\admin.tpl.html"
+			],
+			[
+				"admbo",
+				"core\\tpl\\admin\\admin__bottom.tpl.html"
+			],
+			[
+				"admhed",
+				"core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"operationAddCompany",
+				"core\\includes\\processor\\operations\\operationAddCompany.php"
+			],
+			[
+				"File",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"oper",
+				"core\\includes\\processor\\operations\\operationCloneCompany.php"
+			],
+			[
+				"operationAddCompany.php",
+				"core\\includes\\processor\\operations\\operationAddCompany.php"
+			],
+			[
+				"appcompa",
+				"core\\includes\\processor\\app_admincompanies.php"
+			],
+			[
+				"custord_orders_edit",
+				"core\\includes\\admin\\sub\\custord_orders_edit.php"
+			],
+			[
+				"filede",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"admibo",
+				"core\\tpl\\admin\\admin__bottom.tpl.html"
+			],
+			[
+				"adminh",
+				"core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"custord_companies_edit",
+				"core\\tpl\\admin\\custord_companies_edit.tpl.html"
+			],
+			[
+				"custord_companies_table.tpl",
+				"core\\tpl\\admin\\custord_companies_table.tpl.html"
+			],
+			[
+				"custordtp",
+				"core\\tpl\\admin\\custord.tpl.html"
+			],
+			[
+				"custord",
+				"core\\includes\\admin\\custord.php"
+			],
+			[
+				"custcompphp",
+				"core\\includes\\admin\\sub\\custord_companies.php"
+			],
+			[
+				"comptpl",
+				"core\\tpl\\admin\\custord_companies.tpl.html"
+			],
+			[
+				"compjs",
+				"core\\tpl\\admin\\apps\\AdminCompanies\\appAdminCompaniesTable.js"
+			],
+			[
+				"appcompph",
+				"core\\includes\\processor\\app_admincompanies.php"
+			],
+			[
+				"appcontphp",
+				"core\\includes\\processor\\app_ordercontent.php"
+			],
+			[
+				"toastpl",
+				"core\\tpl\\admin\\apps\\Toasts\\appToasts.tpl.html"
+			],
+			[
+				"mysq",
+				"core\\includes\\database\\mysqli.php"
+			],
+			[
+				"katz",
+				"core\\tpl\\admin\\apps\\lang\\defaultKatzapskayaMova.js"
+			],
+			[
+				"comtabjs",
+				"core\\tpl\\admin\\apps\\AdminCompanies\\appAdminCompaniesTable.js"
+			],
+			[
+				"classSSP",
+				"core\\classes\\class.adminSSP.php"
+			],
+			[
+				"compa",
+				"core\\functions\\companies_functions.php"
+			],
+			[
+				"admissp",
+				"core\\classes\\class.adminSSP.php"
+			],
+			[
+				"appphp",
+				"core\\includes\\processor\\app_admincompanies.php"
+			],
+			[
+				"compaphp",
+				"core\\includes\\admin\\sub\\custord_companies.php"
+			],
+			[
+				"contenjs",
+				"core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.js"
+			],
+			[
+				"mainfun",
+				"core\\functions\\main_functions.php"
+			],
+			[
+				"addom",
+				"core\\tpl\\user\\nano\\quick_cart__invoice_addon.tpl.html"
+			],
+			[
+				"admintpl",
+				"core\\tpl\\admin\\admin__bottom.tpl.html"
+			],
+			[
+				"adminjs",
+				"core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"KatzapskayaMova",
+				"core\\tpl\\admin\\apps\\lang\\KatzapskayaMova.js"
+			],
+			[
+				"compan",
+				"core\\functions\\companies_functions.php"
+			],
+			[
+				"FILe",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"app_admincompanies",
+				"core\\includes\\processor\\app_admincompanies.php"
+			],
+			[
+				"apptabjs",
+				"core\\tpl\\admin\\apps\\AdminProductDataTable\\appAdminProductDataTable.js"
+			],
+			[
+				"appAdminCompaniesTable.js",
+				"core\\tpl\\admin\\apps\\AdminCompanies\\appAdminCompaniesTable.js"
+			],
+			[
+				"custord_orders.tpl.html",
+				"core\\tpl\\admin\\custord_orders.tpl.html"
+			],
+			[
+				"order.php",
+				"core\\includes\\admin\\sub\\custord_orders.php"
+			],
+			[
+				"contenttpl",
+				"core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.tpl.html"
+			],
+			[
+				"mainf",
+				"core\\functions\\main_functions.php"
+			],
+			[
+				"addjs",
+				"core\\tpl\\admin\\apps\\AdminProductDataTable\\appAdminProductDataTable.js"
+			],
+			[
+				"appaddphp",
+				"core\\includes\\processor\\app_admin_products.php"
+			],
+			[
+				"addp",
+				"core\\tpl\\admin\\apps\\OrderContent\\appAddProduct.tpl.html"
+			],
+			[
+				"aDDTPLH",
+				"core\\tpl\\admin\\apps\\OrderContent\\appAddProduct.tpl.html"
+			],
+			[
+				"admdtjs",
+				"core\\tpl\\admin\\apps\\AdminProductDataTable\\appAdminProductDataTable.js"
+			],
+			[
+				"produdtjs",
+				"core\\tpl\\user\\nano\\js\\productsDataTable.js"
+			],
+			[
+				"appjs",
+				"core\\tpl\\admin\\apps\\AdminProductDataTable\\appAdminProductDataTable.js"
+			],
+			[
+				"PHPERROR.py",
+				"errors\\PHPERROR.py"
+			],
+			[
+				"app_adminproductfilter.php",
+				"core\\includes\\processor\\app_adminproductfilter.php"
+			],
+			[
+				"ssp",
+				"core\\classes\\class.SSP.php"
+			],
+			[
+				"filed",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"appcon",
+				"core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.js"
+			],
+			[
+				"viewdia",
+				"core\\tpl\\admin\\apps\\OrderContent\\viewDialog.js"
+			],
+			[
+				"appcurr",
+				"core\\tpl\\admin\\apps\\Currency\\appCurrency.js"
+			],
+			[
+				"modelcurjs",
+				"core\\tpl\\admin\\apps\\Currency\\modelCurrency.js"
+			],
+			[
+				"viecurr",
+				"core\\tpl\\admin\\apps\\Currency\\viewCurrency.js"
+			],
+			[
+				"modelco",
+				"core\\tpl\\admin\\apps\\OrderContent\\modelOrderContent.js"
+			],
+			[
+				"admin.js",
+				"core\\tpl\\admin\\js\\admin.js"
+			],
+			[
+				"contentjs",
+				"core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.js"
+			],
+			[
+				"conttpl",
+				"core\\tpl\\admin\\apps\\OrderContent\\appOrderContent.tpl.html"
+			],
+			[
+				"appconphp",
+				"core\\includes\\processor\\app_ordercontent.php"
+			],
+			[
+				"modelcurr",
+				"core\\tpl\\admin\\apps\\Currency\\modelCurrency.js"
+			],
+			[
+				"appcur",
+				"core\\tpl\\admin\\apps\\Currency\\appCurrency.js"
+			],
+			[
+				"modeCu",
+				"core\\tpl\\admin\\apps\\Currency\\modelCurrency.js"
+			],
+			[
+				"viewcu",
+				"core\\tpl\\admin\\apps\\Currency\\viewCurrency.js"
+			],
+			[
+				"curve",
+				"core\\tpl\\admin\\TRASH\\js-modules\\currency\\view\\currencyView.js"
+			],
+			[
+				"orderfu",
+				"core\\functions\\order_functions.php"
+			],
+			[
+				"debug",
+				"errors\\FILEDEBUG.JSON"
+			],
+			[
+				"headtp",
+				"core\\tpl\\admin\\admin__head.tpl.html"
+			],
+			[
+				"mainfu",
+				"nixminsk.os\\core\\functions\\main_functions.php"
+			],
+			[
+				"app.php",
+				"nixminsk.os\\core\\includes\\processor\\app_invoice.php"
+			],
+			[
+				"orderconphp",
+				"nixminsk.os\\core\\includes\\processor\\app_ordercontent.php"
+			],
+			[
+				"mai",
+				"nixminsk.os\\core\\functions\\main_functions.php"
+			],
+			[
+				"mainfuphp",
+				"nixminsk.os\\core\\functions\\main_functions.php"
+			],
+			[
+				"ordermodejs",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\OrderContent\\modelOrderContent.js"
+			],
+			[
+				"viewCurrency",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\viewCurrency.js"
+			],
+			[
+				"curvie",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\viewCurrency.js"
+			],
+			[
+				"appcu",
+				"nixminsk.os\\core\\tpl\\admin\\apps\\Currency\\appCurrency.js"
+			],
+			[
+				"sele",
+				"nixminsk.os\\lib\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 324.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
